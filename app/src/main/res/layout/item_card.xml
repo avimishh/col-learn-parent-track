@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/re"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:orientation="vertical"
+    app:cardCornerRadius="2dp"
+    app:cardElevation="6dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:background="#ffffff"
+        android:orientation="horizontal"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/txtScore"
+            android:gravity="center"
+            android:layout_width="43dp"
+            android:layout_height="37dp"
+            android:layout_margin="8dp" />
+
+        <ImageView
+            android:id="@+id/imgScore"
+            android:layout_width="45dp"
+            android:layout_height="36dp"
+            android:layout_margin="8dp"
+            android:contentDescription="TODO" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="12dp">
+
+            <TextView
+                android:id="@+id/txtDate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="1dp"
+                android:gravity="right"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/txtPlus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="1dp" />
+
+            <TextView
+                android:id="@+id/txtMinus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="1dp" />
+
+            <TextView
+                android:id="@+id/txtMulti"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="1dp" />
+
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

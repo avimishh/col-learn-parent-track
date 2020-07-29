@@ -1,0 +1,2 @@
+rootProject.name='Coll_tab'
+include ':app'

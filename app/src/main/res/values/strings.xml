@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Coll_tab</string>
+    <string name="coll_tab_header">coll_tab_header</string>
+    <string name="textView1">שולחן משחקים שיתופי</string>
+    <string name="textView2">דיווח הורים</string>
+    <string name="todo">TODO</string>
+    <string name="textview3">ברוכים הבאים</string>
+    <string name="textview4">לדיווח הורים</string>
+    <string name="hello">שלום </string>
+
+    <string name="button_login">התחבר</string>
+    <string name="button_register">הירשם</string>
+    <string name="button_update">עדכן</string>
+
+    <string name="f_name">שם פרטי</string>
+    <string name="l_name">שם משפחה</string>
+    <string name="phone">טלפון</string>
+    <string name="id1">תעודת זהות</string>
+    <string name="pass1">סיסמא</string>
+
+    <string name="homeScreenBtn1">עדכון פרטים אישיים</string>
+    <string name="homeScreenBtn2">הצגת הערות</string>
+    <string name="homeScreenBtn3">הצגת סטטיסטיקות</string>
+    <string name="homeScreenBtn4">פירוט נתוני הילד</string>
+
+    <string name="display_f_name">שם פרטי:</string>
+    <string name="display_l_name">שם משפחה:</string>
+    <string name="display_id">תעודת זהות:</string>
+    <string name="display_b_date">תאריך לידה:</string>
+    <string name="display_age">גיל:</string>
+    <string name="display_address">כתובת:</string>
+    <string name="display_phone">טלפון:</string>
+    <string name="display_level">מספר רמה:</string>
+    <string name="display_pass">סיסמא:</string>
+
+    <string name="invalid_id">נא הכנס ת.ז שמכילה 9 ספרות</string>
+    <string name="invalid_password">נא הכנס סיסמא שמכילה לפחות 5 תווים</string>
+    <string name="invalid_first_name">נא הכנס שם פרטי תקין</string>
+    <string name="invalid_last_name">נא הכנס שם משפחה תקין</string>
+    <string name="invalid_phone">נא הכנס מספר טלפון תקין 05xxxxxxxx</string>
+    <string name="logo">TODO</string>
+    <string name="logo1">TODO</string>
+    <string name="logo2">TODO</string>
+    <string name="todo5">TODO</string>
+
+
+</resources>
